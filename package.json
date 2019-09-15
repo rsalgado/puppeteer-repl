@@ -12,5 +12,8 @@
     "chromium"
   ],
   "author": "Roberto Salgado",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
 }

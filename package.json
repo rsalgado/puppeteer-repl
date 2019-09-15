@@ -4,6 +4,7 @@
   "description": "An experiment aimed to running puppeteer in an REPL fashion. It is inspired by similar approaches like puppeteer-debug and puppeteer-extra-plugin-repl. Please note, I decided to this for learning and practice purposes and this is just experimental; consider using other solutions or approaches.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
